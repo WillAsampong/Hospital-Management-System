@@ -76,8 +76,10 @@
             {
                 $this->DoctorId = $DoctorId; 
                 $this->name = $name;
-                $this->specialization =$specialization;
+                $this->specialization = $specialization;
             }
+
+
         }
     ?>
 </body>
